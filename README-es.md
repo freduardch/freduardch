@@ -1,6 +1,6 @@
 ## Hola 👋 
 
-[![image](https://img.shields.io/badge/lang-es-yellow)](https://www.github.com/freduardch/blob/main/README.md)
+[![image](https://img.shields.io/badge/lang-en-green)](https://www.github.com/freduardch/blob/main/README.md)
 
 
 <!--
