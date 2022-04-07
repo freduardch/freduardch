@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### AAcerca de mí
+### Acerca de mí
 Me llamo Freddy y soy un ingeniero en mecatrónica de Mérida, México. He trabajado como desarrollador de software por 5 años. Actualmente me encuentro trabajado con desarrollador Front-end. He trabajado en diferentes tipos de proyectos:
 - Ecommerce 
 - Blogs
