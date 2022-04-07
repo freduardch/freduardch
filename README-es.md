@@ -1,6 +1,6 @@
 ## Hola 👋 
 
-[![image](https://img.shields.io/badge/lang-en-green)](https://www.github.com/freduardch/blob/main/README.md)
+[![image](https://img.shields.io/badge/lang-en-green)](https://www.github.com/freduardch/freduardch/blob/main/README.md)
 
 
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me
+### AAcerca de mí
 Me llamo Freddy y soy un ingeniero en mecatrónica de Mérida, México. He trabajado como desarrollador de software por 5 años. Actualmente me encuentro trabajado con desarrollador Front-end. He trabajado en diferentes tipos de proyectos:
 - Ecommerce 
 - Blogs
