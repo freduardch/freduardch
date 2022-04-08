@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Acerca de mí
-Me llamo Freddy y soy un ingeniero en mecatrónica de Mérida, México. He trabajado como desarrollador de software por 5 años. Actualmente me encuentro trabajado con desarrollador Front-end. He trabajado en diferentes tipos de proyectos:
+Me llamo Freddy y soy un ingeniero en mecatrónica de Mérida, México. He trabajado como desarrollador de software por 5 años. Actualmente me encuentro trabajando como desarrollador Front-end. He trabajado en diferentes tipos de proyectos:
 - Ecommerce 
 - Blogs
 - Plataforma de evaluaciones psicométricas
@@ -52,7 +52,7 @@ Me llamo Freddy y soy un ingeniero en mecatrónica de Mérida, México. He traba
 </details>
 
 <details>
-  <summary>Aprendizajes para el futuro</summary>
+  <summary>Intereses</summary>
   
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
