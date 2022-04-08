@@ -52,7 +52,7 @@ Je m'appelle Freddy et je suis un ingénieur en mécatronique de Merida, au Mexi
 </details>
 
 <details>
-  <summary>Aprendizajes para el futuro</summary>
+  <summary>Intérêts</summary>
   
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
