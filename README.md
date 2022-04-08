@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 [![image](https://img.shields.io/badge/lang-es-yellow)](https://www.github.com/freduardch/freduardch/blob/main/README-es.md)
-
+[![image](https://img.shields.io/badge/lang-fr-red)](https://www.github.com/freduardch/blob/main/README-fr.md)
 
 <!--
 **freduardch/freduardch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
